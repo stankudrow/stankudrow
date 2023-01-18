@@ -1,16 +1,17 @@
-### Hi there 👋
+# Greetings 👋
 
-<!--
-**stankudrow/stankudrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my front-repository with a brief self-description.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently having mon congé sabbatique;
+- 🌱 I’m currently learning software design patterns and best practices;
+- 💬 Ask me about whatever you want, but gently, please;
+- 📫 How to reach me: [Habr Career](https://career.habr.com/stankudrow);
+- 😄 Pronouns: he/him;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![Stanley Kudrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=stankudrow&show_icons=true&theme=transparent#gh-dark-mode-only)
+
+## CodeWars Stats
+
+![Stanley Kudrow's Codewars stats](https://github.r2v.ch/codewars?user=mhorton&name=true&top_languages=true&theme=dark)
