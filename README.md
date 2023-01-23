@@ -8,6 +8,10 @@ This is my front-repository with a brief self-description.
 - 📫 How to reach me: [Habr Career](https://career.habr.com/stankudrow);
 - 😄 Pronouns: he/him;
 
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stankudrow)](https://github.com/anuraghazra/github-readme-stats)
+
 ## GitHub Stats
 
 ![Stanley Kudrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=stankudrow&show_icons=true&theme=transparent#gh-dark-mode-only)
