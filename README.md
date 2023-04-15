@@ -5,7 +5,7 @@ This is my front-repository with a brief self-description.
 - 🔭 I’m currently having mon congé sabbatique;
 - 🌱 I’m currently learning software design patterns and best practices;
 - 💬 Ask me about whatever you want, but gently, please;
-- 📫 How to reach me: [Habr Career](https://career.habr.com/stankudrow);
+- 📫 How to reach me: [Telegram](https://t.me/stanis_cute);
 - 😄 Pronouns: he/him;
 
 ## Top Languages
