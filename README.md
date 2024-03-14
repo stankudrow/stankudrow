@@ -6,20 +6,17 @@ This is my front-repository with a brief self-description.
 
 - 🔭 Working at software design patterns and best practices;
 - 🌱 Currently learning at Sberbank [School 21](https://21-school.ru/);
-- 💬 Ask me about whatever you want, but gently, please;
-- 📫 Feel free to text me in [Telegram](https://t.me/stanis_cute);
-- ✉️ Feel free to [email](mailto:stankudrow@yandex.ru) me;
 - 🎓 My [certificates](certificates/);
 - 😄 Pronouns: he/him;
 
 ## 🛠 TechStack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Top Languages
 
