@@ -6,10 +6,9 @@ The (my)self-explanatory repository.
 
 - 🆗 to call me Stan.
 - ❗ Kudrow is pronounced/read as /'ku:droʊ/ ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) is not a 🍺).
-- 🐍 Currently working as a Python back-end developer.
-- 😱 Learning C/C++, but lazily.
-- 🎓 I have a master degree in theoretical physics: no need to ask me about the foundations of this Universe.
-- 🔭 Interested in conputer science, system design and analysis and many other fields.
+- 🐍 Python is my primary language (but not the first one) -> currently working as a Python back-end developer.
+- 🎓 Master degree in theoretical physics, yet no need to ask me about the foundations of this Universe.
+- 🔭 Interested in computer science, systems, mathematics, cognitive disciplines and many other fields.
 - 👅 Languages: 🇬🇧, 🇫🇷, 🇮🇹.
 - 😄 Pronouns: he/him.
 
