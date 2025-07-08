@@ -8,6 +8,7 @@ This is (my)self-explanatory repository.
 - [For hirers](#-for-hirers)
 - [Tech Stack](#-tech-stack)
 - [GitHub Statistics](#github-statistics)
+- [Open Source](#open-source)
 
 ## 👨🏻‍💻 About myself
 
@@ -63,8 +64,6 @@ In case you would like to:
 ![Stanley Kudrow's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=stankudrow&theme=react-dark&hide_border=true&area=true)
 
 ## Open Source
-
-### Contributions
 
 | Project | GitHub Stars |
 |---------|--------------|
