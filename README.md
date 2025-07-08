@@ -26,7 +26,7 @@ This is (my)self-explanatory repository.
 
 In case you would like to:
 
-- have a look at my certificates -> [here](./certs).
+- have a look at my [certificates](./certs/).
 - view educational projects about IT in general (work in progress):
   - [algorithms and data structures](https://github.com/stankudrow/ADS)
   - [design patterns](https://github.com/stankudrow/Design-Patterns)
