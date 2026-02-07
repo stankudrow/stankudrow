@@ -47,7 +47,7 @@ This is (my)self-explanatory repository.
 
 ![Stanley Kudrow's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=stankudrow&theme=react-dark&hide_border=true&area=true)
 
-![Codewars](https://github.r2v.ch/codewars?user=stankudrow&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=mhorton&stroke=%23BB432C)
 
 ## Contributions
 
